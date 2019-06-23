@@ -1,3 +1,0 @@
-# sids
-abc
-dfg
